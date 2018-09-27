@@ -1,5 +1,6 @@
 ## Finagle Adopters
 
+
 Twitter isn't the only company using Finagle. We're sure the following list
 isn't complete, so please [let us know][0] if your company should be included,
 or if you'd like us to feature a link to a blog post or article about how
